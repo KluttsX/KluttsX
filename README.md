@@ -1,5 +1,5 @@
 # 💫 About Me:
-¡Hola! Soy un apasionado programador joven de 18 años de la República Dominicana, con una energía incansable y un deseo ardiente de aprender y destacar en el mundo del desarrollo web. Desde que me gradué como bachiller técnico, he estado dedicando mi tiempo y esfuerzo en perfeccionar mis habilidades en desarrollo frontend.<br><br>Estoy ansioso por participar en proyectos innovadores y desafiantes que me permitan crecer y contribuir con soluciones creativas y efectivas. Mi experiencia en React, junto con mi sólida formación en diseño web, me ha permitido desarrollar proyectos interesantes como Bliss Website, Nexus Mod, Community Manager Website, Overload Website y mi propio portafolio personal.
+¡Hola! Soy un apasionado programador joven de 18 años de la República Dominicana, con una energía incansable y un deseo ardiente de aprender y destacar en el mundo del desarrollo web. Desde que me gradué como bachiller técnico, he estado dedicando mi tiempo y esfuerzo en perfeccionar mis habilidades en desarrollo frontend.<br><br>Estoy ansioso por participar en proyectos innovadores y desafiantes que me permitan crecer y contribuir con soluciones creativas y efectivas. 
 
 
 ## 🌐 Socials:
