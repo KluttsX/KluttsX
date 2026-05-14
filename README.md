@@ -1,6 +1,5 @@
 # 💫 About Me:
-¡Hola! Soy un apasionado programador joven de 18 años de la República Dominicana, con una energía incansable y un deseo ardiente de aprender y destacar en el mundo del desarrollo web. Desde que me gradué como bachiller técnico, he estado dedicando mi tiempo y esfuerzo en perfeccionar mis habilidades en desarrollo frontend.<br><br>Estoy ansioso por participar en proyectos innovadores y desafiantes que me permitan crecer y contribuir con soluciones creativas y efectivas. 
-
+Hola, soy un aprendiz de programación con muchas ganas de aprender y seguir mejorando cada día. Me interesa participar en proyectos donde pueda ganar experiencia, aportar mis conocimientos y crecer como desarrollador.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_missael.7?igsh=MWpqcnc4ZWF1MmQwMg==) 
